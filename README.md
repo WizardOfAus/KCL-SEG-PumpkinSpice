@@ -3,13 +3,13 @@
 Client: Nuclear Medicine Department of the Chelsea & Westminster Hospital
 
 Members:
-- Anttoni Pykalisto
-- Sean Seeds
 - Anda Lapuste
+- Anttoni Pykalisto
 - Daniel Jiang
 - Rihem Ghebache
 - Ryan Hill
 - Samuel Godwin
+- Sean Seeds
 
 Making educational games for kids since 2017
 
